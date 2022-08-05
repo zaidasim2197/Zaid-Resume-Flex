@@ -1,0 +1,43 @@
+.heading{
+    text-align:center;
+    align-items: center;
+    text-decoration: none;
+    /* text-indent: 3px; */
+
+
+}
+.heading ul li{
+    text-decoration: none;
+    list-style: none;
+
+}
+.heading p{
+    text-decoration: none;
+}
+.main{
+    display: flex;
+
+}
+.container{
+    margin-left: -5px;
+    width: 30% ;
+    border: 2px solid rgb(40, 59, 165);
+    background-color: rgb(161, 200, 208);
+}
+.container2{
+    width: 70%;
+    margin-left: 24px;
+
+}
+.phone{
+    margin-left: -72px;
+}
+.mail{
+    margin-left: -58px;
+}
+.linkdin{
+    margin-left: -42px;
+}
+.upwork{
+    margin-left: -45px;
+}
